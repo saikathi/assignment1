@@ -19,7 +19,7 @@
     <SUITE FILE_PATH="coverage/assignment1$happiest_state.coverage" NAME="happiest_state Coverage Results" MODIFIED="1448323480980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/assignment1$top_ten.coverage" NAME="top_ten Coverage Results" MODIFIED="1448323513470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/assignment1$twitterstream__1_.coverage" NAME="twitterstream (1) Coverage Results" MODIFIED="1447469418823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/assignment1$twitterstream.coverage" NAME="twitterstream Coverage Results" MODIFIED="1447469409896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/assignment1$twitterstream.coverage" NAME="twitterstream Coverage Results" MODIFIED="1448323651982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweet_sentiment.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tweet_sentiment.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tweet_sentiment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state vertical-scroll-proportion="-0.8778055">
+              <caret line="15" column="94" selection-start-line="15" selection-start-column="94" selection-end-line="15" selection-end-column="94" />
               <folding>
                 <element signature="e#15#25#0" expanded="true" />
               </folding>
@@ -76,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top_ten.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="top_ten.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/top_ten.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4488778">
+            <state vertical-scroll-proportion="0.0">
               <caret line="49" column="21" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="21" />
               <folding>
                 <element signature="e#15#25#0" expanded="true" />
@@ -193,7 +193,7 @@
       <recent name="C:\Users\twitter\Documents\GitHub\datasci_course_materials\assignment1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.top_ten">
+  <component name="RunManager" selected="Python.twitterstream">
     <configuration default="false" name="twitterstream" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -505,9 +505,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.frequency" />
-        <item index="1" class="java.lang.String" itemvalue="Python.twitterstream (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.twitterstream" />
+        <item index="0" class="java.lang.String" itemvalue="Python.twitterstream" />
+        <item index="1" class="java.lang.String" itemvalue="Python.frequency" />
+        <item index="2" class="java.lang.String" itemvalue="Python.twitterstream (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -909,16 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet_sentiment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="e#15#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/term_sentiment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -951,8 +941,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/top_ten.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4488778">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="21" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet_sentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8778055">
+          <caret line="15" column="94" selection-start-line="15" selection-start-column="94" selection-end-line="15" selection-end-column="94" />
           <folding>
             <element signature="e#15#25#0" expanded="true" />
           </folding>
